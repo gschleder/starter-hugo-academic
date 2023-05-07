@@ -38,7 +38,9 @@ sections:
           location: Cambridge, Massachusetts
           date_start: '2021-07-01'
           date_end: '2023-02-31'
-          description: Researcher in Simulations and Machine Learning of Quantum Materials and Twistronics. Taught two undergraduate courses.
+          description: |2-
+              * Researcher in Simulations and Machine Learning of Quantum Materials and Twistronics. 
+              * Taught two undergraduate courses: Phys20-Computational Physics; and AM10-Python for Scientists and Engineers.
     design:
       columns: '2'
   - block: markdown
