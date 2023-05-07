@@ -38,7 +38,7 @@ sections:
           location: Cambridge, Massachusetts
           date_start: '2021-07-01'
           date_end: '2023-02-31'
-          description: |2
+          description: |2-
           Taught electronic engineering and researched semiconductor physics.
           - a
           - b
