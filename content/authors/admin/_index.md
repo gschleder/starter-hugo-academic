@@ -46,9 +46,9 @@ education:
 superuser: true
 status:
   icon: ☕️
-last_name: Wu
+last_name: Schleder
 highlight_name: true
-first_name: Alice
+first_name: Gabriel
 email: ""
 ---
 G﻿abriel Schleder is a Research Scientist of machine learning and nanomaterials at the Brazilian Nanotechnology National Laboratory (LNNano/CNPEM).
