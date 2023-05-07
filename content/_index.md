@@ -30,20 +30,18 @@ sections:
           location: Campinas, São Paulo, Brazil
           date_start: '2023-03-01'
           date_end: ''
-          description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
+          description: Research Scientist of Theory and Data Science of Nanomaterials
+        - title: Postdoctoral Fellow in Applied Physics
+          company: Harvard University
+          company_url: 'https://scholar.harvard.edu/gschleder/'
           company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          location: Cambridge, Massachusetts
+          date_start: '2021-07-01'
+          date_end: '2023-02-31'
+          description: |2
+          Taught electronic engineering and researched semiconductor physics.
+          - a
+          - b
     design:
       columns: '2'
   - block: markdown
