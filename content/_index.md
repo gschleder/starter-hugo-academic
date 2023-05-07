@@ -36,13 +36,13 @@ sections:
               * Analysing
               * Modelling
               * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
+        - title: Postdoctoral Fellow in Applied Physics
+          company: Harvard University
+          company_url: 'https://scholar.harvard.edu/gschleder/'
           company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
+          location: Cambridge, Massachusetts
+          date_start: '2021-07-01'
+          date_end: '2023-02-31'
           description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
