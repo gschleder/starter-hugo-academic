@@ -34,8 +34,7 @@ education:
     - course: PhD in Nanoscience and Advanced Materials
       institution: Universidade Federal do ABC
       year: 2021
-      - institution: Universidade Federal do ABC
-      - year: 2021
+      - a
     - course: MEng in Nanoscience and Advanced Materials
       institution: Universidade Federal do ABC
       year: 2017
