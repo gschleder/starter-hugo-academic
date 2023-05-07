@@ -1,3 +1,36 @@
+Skip to content
+Search or jump to…
+Pull requests
+Issues
+Codespaces
+Marketplace
+Explore
+ 
+@gschleder 
+gschleder
+/
+starter-hugo-academic
+Public
+Cannot fork because you own this repository and are not a member of any organizations.
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+Settings
+Beta Try the new code view
+starter-hugo-academic/content/_index.md
+@gschleder
+gschleder Update _index.md
+Latest commit 03fac59 2 hours ago
+ History
+ 1 contributor
+129 lines (128 sloc)  3.83 KB
+ 
+
 ---
 # Leave the homepage title empty to use the site title
 title: Gabriel R. Schleder
@@ -30,12 +63,7 @@ sections:
           location: Campinas, São Paulo, Brazil
           date_start: '2023-03-01'
           date_end: ''
-          description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
+          description: Research Scientist of Theory and Data Science of Nanomaterials
         - title: Postdoctoral Fellow in Applied Physics
           company: Harvard University
           company_url: 'https://scholar.harvard.edu/gschleder/'
@@ -43,7 +71,9 @@ sections:
           location: Cambridge, Massachusetts
           date_start: '2021-07-01'
           date_end: '2023-02-28'
-          description: Taught electronic engineering and researched semiconductor physics.
+          description: |2-
+              * Researcher in Simulations and Machine Learning of Quantum Materials and Twistronics. 
+              * Taught two undergraduate courses: Phys20-Computational Physics; and AM10-Python for Scientists and Engineers.
     design:
       columns: '2'
   - block: markdown
@@ -130,3 +160,18 @@ sections:
     design:
       columns: '2'
 ---
+Footer
+© 2023 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+starter-hugo-academic/_index.md at 03fac593f32c02e7cc506ebd154cdd44c38fa131 · gschleder/starter-hugo-academic
