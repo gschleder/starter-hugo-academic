@@ -38,10 +38,7 @@ sections:
           location: Cambridge, Massachusetts
           date_start: '2021-07-01'
           date_end: '2023-02-31'
-          description: |2-
-          Taught electronic engineering and researched semiconductor physics.
-          - a
-          - b
+          description: Researcher in Simulations and Machine Learning of Quantum Materials and Twistronics. Taught two undergraduate courses.
     design:
       columns: '2'
   - block: markdown
