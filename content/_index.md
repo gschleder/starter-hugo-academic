@@ -26,7 +26,7 @@ sections:
         - title: Research Scientist
           company: Brazilian Nanotechnology National Laboratory (LNNano/CNPEM)
           company_url: 'https://lnnano.cnpem.br/'
-          company_logo: org-gc
+          company_logo: lnnano
           location: Campinas, São Paulo, Brazil
           date_start: '2023-03-01'
           date_end: ''
