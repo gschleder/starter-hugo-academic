@@ -60,7 +60,7 @@ sections:
           certificate_url: ''
           date_end: ''
           date_start: '2023-06-01'
-          description: 'Selected by the Brazilian Academy of Sciences (ABC) to represent Brazil in the prize section "Modernizing Agriculture". Presented the work "Wearable Sensors on Plant Leaves for On-Site Monitoring of Plant Water Loss in Agriculture", co-led by Dr. Renato S. Lima at LNNano.'
+          description: 'Selected by the Brazilian Academy of Sciences (ABC) to represent Brazil in the prize section "Modernizing Agriculture". Presented the work "Wearable Sensors on Plant Leaves for On-Site Monitoring of Plant Water Loss in Agriculture", co-led by Dr. Renato S. Lima at LNNano. The work was a finalist at the Prize presented at Port Elizabeth, South Africa.'
           organization: BRICS
           organization_url: ''
           url: ''
