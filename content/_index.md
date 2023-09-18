@@ -56,6 +56,14 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: BRICS 2023 South Africa: Young Innovator Prize
+          certificate_url: ''
+          date_end: ''
+          date_start: '2023-06-01'
+          description: ''
+          organization: BRICS
+          organization_url: ''
+          url: ''
         - title: Prêmio José Leite Lopes de Melhor Tese de Doutorado 2022 SBF
           certificate_url: 'https://sbfisica.org.br/v1/sbf/gabriel-ravanhani-schleder-vence-premio-professor-jose-leite-lopes-de-2022/'
           date_end: ''
