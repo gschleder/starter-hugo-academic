@@ -34,7 +34,7 @@ sections:
         - title: Postdoctoral Fellow in Applied Physics
           company: Harvard University
           company_url: 'https://scholar.harvard.edu/gschleder/'
-          company_logo: org-x
+          company_logo: harvard
           location: Cambridge, Massachusetts
           date_start: '2021-07-01'
           date_end: '2023-02-28'
