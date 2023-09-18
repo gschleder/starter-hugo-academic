@@ -69,7 +69,7 @@ sections:
           date_end: ''
           date_start: '2023-05-01'
           description: ''
-          organization: Sociedade Brasileira de Física (SBF)
+          organization: Sociedade Brasileira de Fisica (SBF)
           organization_url: 'https://sbfisica.org.br/'
           url: 'https://sbfisica.org.br/v1/sbf/gabriel-ravanhani-schleder-vence-premio-professor-jose-leite-lopes-de-2022/'
         - title: INCT Materials Informatics
