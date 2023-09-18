@@ -66,7 +66,7 @@ sections:
           url: ''
         - title: Prêmio José Leite Lopes de Melhor Tese de Doutorado 2022 SBF
           certificate_url: https://sbfisica.org.br/v1/sbf/gabriel-ravanhani-schleder-vence-premio-professor-jose-leite-lopes-de-2022/
-          date_end: 
+          date_end: ''
           date_start: '2023-05-01'
           description: ''
           organization: Sociedade Brasileira de Física (SBF)
@@ -82,7 +82,7 @@ sections:
           url: https://inct-mi.pesquisa.ufabc.edu.br/discentes-do-inct-professor-gabriel-schleder/
         - title: Prêmio CAPES de Tese de Doutorado 2022
           certificate_url: https://www.in.gov.br/en/web/dou/-/edital-n-11/2022-resultado-premio-capes-de-tese-edicao-2022-421902318
-          date_end:
+          date_end: ''
           date_start: '2022-08-11'
           description: ''
           organization: CAPES
