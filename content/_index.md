@@ -56,11 +56,11 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: BRICS 2023 South Africa: Young Innovator Prize
+        - title: BRICS 2023 South Africa - Young Innovator Prize
           certificate_url: ''
           date_end: ''
           date_start: '2023-06-01'
-          description: ''
+          description: 'Selected by the Brazilian Academy of Sciences (ABC) to represent Brazil in the prize section "Modernizing Agriculture". Presented the work "Wearable Sensors on Plant Leaves for On-Site Monitoring of Plant Water Loss in Agriculture", co-led by Dr. Renato S. Lima at LNNano.'
           organization: BRICS
           organization_url: ''
           url: ''
