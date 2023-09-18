@@ -43,6 +43,54 @@ sections:
               * Taught two undergraduate courses: Phys20-Computational Physics; and AM10-Python for Scientists and Engineers.
     design:
       columns: '2'
+  - block: accomplishments
+    content:
+      title: Highlights
+      subtitle: ''
+      text: ''
+      # Date format: https://wowchemy.com/docs/customization/#date-format
+      date_format: Jan 2006
+      # Accomplishments.
+      #   Add/remove as many `items` blocks below as you like.
+      #   `title`, `organization`, and `date_start` are the required parameters.
+      #   Leave other parameters empty if not required.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - title: BRICS 2023 South Africa (Young Innovator Prize)
+          certificate_url: ''
+          date_end: ''
+          date_start: '2023-06-01'
+          description: 'Selected by the Brazilian Academy of Sciences (ABC) to represent Brazil in the prize section "Modernizing Agriculture". Presented the work "Wearable Sensors on Plant Leaves for On-Site Monitoring of Plant Water Loss in Agriculture", co-led by Dr. Renato S. Lima at LNNano. The work was a finalist at the Prize presented at Port Elizabeth, South Africa.'
+          organization: BRICS
+          organization_url: ''
+          url: ''
+        - title: Prêmio José Leite Lopes de Melhor Tese de Doutorado 2022 SBF
+          certificate_url: 'https://sbfisica.org.br/v1/sbf/gabriel-ravanhani-schleder-vence-premio-professor-jose-leite-lopes-de-2022/'
+          date_end: ''
+          date_start: '2023-05-01'
+          description: ''
+          organization: Sociedade Brasileira de Fisica (SBF)
+          organization_url: 'https://sbfisica.org.br/'
+          url: 'https://sbfisica.org.br/v1/sbf/gabriel-ravanhani-schleder-vence-premio-professor-jose-leite-lopes-de-2022/'
+        - title: INCT Materials Informatics
+          certificate_url: 'https://inct-mi.pesquisa.ufabc.edu.br/discentes-do-inct-professor-gabriel-schleder/'
+          date_end: ''
+          date_start: '2023-04-01'
+          description: The National Institute of Science, Technology and Innovation Program (INCT/CNPq) of Materials Informatics has been created! We have scholarships of all levels, from undergrad to postdoctoral levels.
+          organization: INCT Materials Informatics
+          organization_url: 'https://inct-mi.pesquisa.ufabc.edu.br/'
+          url: 'https://inct-mi.pesquisa.ufabc.edu.br/discentes-do-inct-professor-gabriel-schleder/'
+        - title: Prêmio CAPES de Tese de Doutorado 2022
+          certificate_url: 'https://www.in.gov.br/en/web/dou/-/edital-n-11/2022-resultado-premio-capes-de-tese-edicao-2022-421902318'
+          date_end: ''
+          date_start: '2022-08-11'
+          description: ''
+          organization: CAPES
+          organization_url: 'https://www.gov.br/capes/pt-br/assuntos/premios/premio-capes-de-tese/teses-premiadas/teses-premiadas-em-2022'
+          url: 'https://www.gov.br/capes/pt-br/assuntos/premios/premio-capes-de-tese/teses-premiadas/teses-premiadas-em-2022'
+    design:
+      # Choose how many columns the section has. Valid values: '1' or '2'.
+      columns: '2'
   # - block: markdown
   #   content:
   #     title: Gallery
