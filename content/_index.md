@@ -56,12 +56,12 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: BRICS
-          certificate_url: https://www.coursera.org
+        - title: BRICS 2023 South Africa
+          certificate_url:
           date_end: ''
           date_start: '2021-01-25'
           description: ''
-          organization: Coursera
+          organization: BRICS
           organization_url: https://www.coursera.org
           url: ''
         - title: Prêmio SBF
