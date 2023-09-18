@@ -1,14 +1,16 @@
 ---
 title: Gabriel Ravanhani Schleder
 role: Research Scientist of Theory and Data Science of Nanomaterials
-avatar_filename: gabriel_canada_small_sq_resize.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include machine learning, computational materials
   science, density functional theory (DFT), artificial intelligence,
   nanoscience, and condensed matter physics.
 interests:
+  - Computational Materials Science
+  - Machine Learning
+  - Density Functional Theory (DFT)
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Condensed Matter Physics
 social:
   - icon: envelope
     icon_pack: fas
@@ -44,9 +46,9 @@ education:
 superuser: true
 status:
   icon: ☕️
-last_name: Wu
+last_name: Schleder
 highlight_name: true
-first_name: Alice
+first_name: Gabriel
 email: ""
 ---
 G﻿abriel Schleder is a Research Scientist of machine learning and nanomaterials at the Brazilian Nanotechnology National Laboratory (LNNano/CNPEM).
