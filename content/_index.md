@@ -26,7 +26,7 @@ sections:
         - title: Research Scientist
           company: Brazilian Nanotechnology National Laboratory (LNNano/CNPEM)
           company_url: 'https://lnnano.cnpem.br/'
-          company_logo: org-gc
+          company_logo: lnnano
           location: Campinas, São Paulo, Brazil
           date_start: '2023-03-01'
           date_end: ''
@@ -34,7 +34,7 @@ sections:
         - title: Postdoctoral Fellow in Applied Physics
           company: Harvard University
           company_url: 'https://scholar.harvard.edu/gschleder/'
-          company_logo: org-x
+          company_logo: harvard
           location: Cambridge, Massachusetts
           date_start: '2021-07-01'
           date_end: '2023-02-28'
